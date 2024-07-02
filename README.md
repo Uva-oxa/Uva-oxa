@@ -4,4 +4,4 @@ Meu nome é Amanda
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para organização e desenvolvimento dos meus projetos 
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
